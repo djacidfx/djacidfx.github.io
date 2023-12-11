@@ -25,5 +25,5 @@ If you find a bug or run into any issues please submit them on our [Issue Tracke
 <p><strong>Client-Centric</strong>: Your success is our success. We prioritize clear communication, collaboration, and, most importantly, your satisfaction.</p>
 </li>
 </ul>
-## Contributors:<br>
+## Contributors/Graphic Design:<br>
 <a href="https://www.stephen-dipasquale.com/"><img src="/images/faeb24_22ac866bb84e499da98c7eafe872e51f~mv2_1.png" alt="Steven logo">

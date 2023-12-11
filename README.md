@@ -1,3 +1,5 @@
+## Issues
+If you find a bug or run into any issues please submit them on our [Issue Tracker](https://github.com/djacidfx/djacidfx.github.io/issues)
 <p><img src="https://mywild.work/uploads/images/202310/image_750x_652b17c904eba.jpg" alt=""></p>
 <p>Welcome to Wildcat Studio, your one-stop destination for professional, innovative, and customized solutions in the world of Android app development, resource gathering and sublimation printing. Wildcat Studio is the brainchild of a dedicated and versatile individual, a true jack of all trades in the ever-evolving world of technology and design.</p>
 <p><strong>Meet the Mastermind</strong></p>

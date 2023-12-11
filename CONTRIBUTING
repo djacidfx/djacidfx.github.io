@@ -1,0 +1,38 @@
+Contributing to This project to make improvments and fix bugs
+
+We welcome contributions to WildCat Studio! This document outlines our guidelines for contributing, to help ensure a smooth and positive experience for everyone involved.
+Getting Started
+
+    Fork the repository: Before making any changes, please fork the WildCat Studio repository to your account. This will create a personal copy of the code that you can modify without affecting the original project.
+    Create a branch: Create a new branch for your feature or bug fix. This will keep your changes isolated from the main codebase.
+    Install dependencies: Make sure to install all necessary dependencies for your local development environment.
+    Run tests: Before making any changes, run the existing test suite to ensure your contributions don't break anything.
+
+Making Changes
+
+    Write clear and concise commit messages: Your commit messages should be descriptive and explain what your changes are and why you made them. This helps maintainers understand your work and review your contributions more efficiently.
+    Follow the coding style: We recommend following the existing coding style of the project to maintain consistency and readability.
+    Write unit tests: If you're adding new features or fixing bugs, please write unit tests to ensure your code works as expected.
+    Document your changes: Update any relevant documentation with information about your changes.
+
+Submitting Pull Requests
+
+    Push your changes: Push your local branch to your fork on GitHub.
+    Create a pull request: Create a pull request from your branch to the main branch of the WildCat Studio repository.
+    Fill out the pull request template: We use a pull request template to collect information about your changes and make it easier for reviewers to understand your contribution.
+    Respond to feedback: Address any feedback or questions from reviewers promptly and respectfully.
+
+Other ways to contribute
+
+    Report bugs: If you find a bug in the project, please report it using the GitHub issue tracker. Provide clear and detailed information about the bug, including steps to reproduce it.
+    Suggest improvements: If you have ideas for improving the project, please share them by opening a new issue or pull request.
+    Answer questions: Help other users by answering their questions on GitHub or other forums.
+
+Code of Conduct
+
+We are committed to fostering a welcoming and inclusive community. We encourage everyone to read and follow our Code of Conduct, which outlines our expectations for behavior in the project community.
+License
+
+All contributions to WildCat Studio are subject to the Project License: LICENSE.md. By submitting a pull request, you are agreeing to license your contributions under this license.
+
+Thank you for your interest in contributing to WildCat Studio! We appreciate your time and effort.

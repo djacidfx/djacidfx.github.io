@@ -1,3 +1,11 @@
+![GitHub Repo stars](https://img.shields.io/github/stars/djacidfx/djacidfx.github.io)
+![Website](https://img.shields.io/website?url=https%3A%2F%2Fwildcatproductions.biz%2F&up_message=Online&up_color=blue&down_message=Offline&down_color=red)
+![GitHub Discussions](https://img.shields.io/github/discussions/djacidfx/djacidfx.github.io)
+<span class="badge-githubsponsors"><a href="https://github.com/sponsors/djacidfx" title="Donate to this project using GitHub Sponsors"><img src="https://img.shields.io/badge/github-donate-yellow.svg" alt="GitHub Sponsors donate button" /></a></span>
+<span class="badge-buymeacoffee"><a href="https://buymeacoffee.com/wildcatprod" title="Donate to this project using Buy Me A Coffee"><img src="https://img.shields.io/badge/buy%20me%20a%20coffee-donate-yellow.svg" alt="Buy Me A Coffee donate button" /></a></span>
+<span class="badge-patreon"><a href="https://patreon.com/wildcatstudio" title="Donate to this project using Patreon"><img src="https://img.shields.io/badge/patreon-donate-yellow.svg" alt="Patreon donate button" /></a></span>
+<span class="badge-paypal"><a href="https://paypal.me/WildCatProductions" title="Donate to this project using Paypal"><img src="https://img.shields.io/badge/paypal-donate-yellow.svg" alt="PayPal donate button" /></a></span>
+
 ## Issues
 If you find a bug or run into any issues please submit them on our [Issue Tracker](https://github.com/djacidfx/djacidfx.github.io/issues)
 <p><img src="https://mywild.work/uploads/images/202310/image_750x_652b17c904eba.jpg" alt=""></p>
@@ -25,5 +33,10 @@ If you find a bug or run into any issues please submit them on our [Issue Tracke
 <p><strong>Client-Centric</strong>: Your success is our success. We prioritize clear communication, collaboration, and, most importantly, your satisfaction.</p>
 </li>
 </ul>
+
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/WildCatStudio18)
+
 <b>Contributors/Graphic Design:</b><br>
 <a href="https://www.stephen-dipasquale.com/"><img src="/images/faeb24_22ac866bb84e499da98c7eafe872e51f~mv2_1.png" alt="Steven logo">
+<br>
+<p><img alt="W3C Validation" src="https://img.shields.io/w3c-validation/html?targetUrl=https%3A%2F%2Fwildcatproductions.biz%2F"></p>

@@ -6,6 +6,10 @@
 <span class="badge-patreon"><a href="https://patreon.com/wildcatstudio" title="Donate to this project using Patreon"><img src="https://img.shields.io/badge/patreon-donate-yellow.svg" alt="Patreon donate button" /></a></span>
 <span class="badge-paypal"><a href="https://paypal.me/WildCatProductions" title="Donate to this project using Paypal"><img src="https://img.shields.io/badge/paypal-donate-yellow.svg" alt="PayPal donate button" /></a></span>
 
+![GitHub repo size](https://img.shields.io/github/repo-size/djacidfx/djacidfx.github.io)
+![GitHub release (with filter)](https://img.shields.io/github/v/release/djacidfx/djacidfx.github.io)
+[![Awesome Content - Click Here](https://img.shields.io/badge/Awesome_Content-Click_Here-2ea44f)](https://mywild.work/)
+
 ## Issues
 If you find a bug or run into any issues please submit them on our [Issue Tracker](https://github.com/djacidfx/djacidfx.github.io/issues)
 <p><img src="https://mywild.work/uploads/images/202310/image_750x_652b17c904eba.jpg" alt=""></p>
@@ -35,6 +39,7 @@ If you find a bug or run into any issues please submit them on our [Issue Tracke
 </ul>
 
 ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/WildCatStudio18)
+![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white/)
 
 <b>Contributors/Graphic Design:</b><br>
 <a href="https://www.stephen-dipasquale.com/"><img src="/images/faeb24_22ac866bb84e499da98c7eafe872e51f~mv2_1.png" alt="Steven logo">

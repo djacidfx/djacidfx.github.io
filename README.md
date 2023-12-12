@@ -9,6 +9,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/djacidfx/djacidfx.github.io)
 ![GitHub release (with filter)](https://img.shields.io/github/v/release/djacidfx/djacidfx.github.io)
 [![Awesome Content - Click Here](https://img.shields.io/badge/Awesome_Content-Click_Here-2ea44f)](https://mywild.work/)
+[![Awesome](https://awesome.re/badge.svg)](https://mywild.work/)
 
 ## Issues
 If you find a bug or run into any issues please submit them on our [Issue Tracker](https://github.com/djacidfx/djacidfx.github.io/issues)

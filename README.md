@@ -39,9 +39,6 @@ If you find a bug or run into any issues please submit them on our [Issue Tracke
 </ul>
 
 ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/WildCatStudio18)
-![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white/)
 
 <b>Contributors/Graphic Design:</b><br>
 <a href="https://www.stephen-dipasquale.com/"><img src="/images/faeb24_22ac866bb84e499da98c7eafe872e51f~mv2_1.png" alt="Steven logo">
-<br>
-<p><img alt="W3C Validation" src="https://img.shields.io/w3c-validation/html?targetUrl=https%3A%2F%2Fwildcatproductions.biz%2F"></p>

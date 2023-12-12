@@ -1,6 +1,6 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/djacidfx/djacidfx.github.io)
 ![Website](https://img.shields.io/website?url=https%3A%2F%2Fwildcatproductions.biz%2F&up_message=Online&up_color=blue&down_message=Offline&down_color=red)
-![GitHub Discussions](https://img.shields.io/github/discussions/djacidfx/)
+![GitHub Discussions](https://img.shields.io/github/discussions/djacidfx/djacidfx.github.io)
 <span class="badge-githubsponsors"><a href="https://github.com/sponsors/djacidfx" title="Donate to this project using GitHub Sponsors"><img src="https://img.shields.io/badge/github-donate-yellow.svg" alt="GitHub Sponsors donate button" /></a></span>
 <span class="badge-buymeacoffee"><a href="https://buymeacoffee.com/wildcatprod" title="Donate to this project using Buy Me A Coffee"><img src="https://img.shields.io/badge/buy%20me%20a%20coffee-donate-yellow.svg" alt="Buy Me A Coffee donate button" /></a></span>
 <span class="badge-patreon"><a href="https://patreon.com/wildcatstudio" title="Donate to this project using Patreon"><img src="https://img.shields.io/badge/patreon-donate-yellow.svg" alt="Patreon donate button" /></a></span>
@@ -9,7 +9,6 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/djacidfx/djacidfx.github.io)
 ![GitHub release (with filter)](https://img.shields.io/github/v/release/djacidfx/djacidfx.github.io)
 [![Awesome Content - Click Here](https://img.shields.io/badge/Awesome_Content-Click_Here-2ea44f)](https://mywild.work/)
-<a href='https://github.com/djacidfx/djacidfx.github.io' target="_blank"><img alt='GitHub' src='https://img.shields.io/badge/GitHub-100000?style=social&logo=GitHub&logoColor=000000&labelColor=FFFFFF&color=black'/></a>
 
 ## Issues
 If you find a bug or run into any issues please submit them on our [Issue Tracker](https://github.com/djacidfx/djacidfx.github.io/issues)

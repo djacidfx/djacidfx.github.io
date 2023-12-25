@@ -63,11 +63,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=djacidfx&" alt="djacidfx" /></p>
 
-
-# Blog posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <b>Contributors/Graphic Design:</b><br>
 <a href="https://www.stephen-dipasquale.com/"><img src="/images/faeb24_22ac866bb84e499da98c7eafe872e51f~mv2_1.png" alt="Steven logo">

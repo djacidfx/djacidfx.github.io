@@ -40,6 +40,8 @@
 
 ### Blogs posts
 <!-- Website:START -->
+- [Awesome Search Engines](https://dev.to/djacidfx/awesome-hacker-search-engines-158i)
+- [Git Tools](https://dev.to/djacidfx/git-tools-4m0d)
 <!-- Website:END -->
 
 <h3 align="left">Connect with me:</h3>

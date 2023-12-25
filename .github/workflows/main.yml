@@ -1,14 +1,20 @@
-name: Latest blog post workflow
+name: Latest stack overflow activity
 on:
   schedule:
-    # Runs every hour
-    - cron: '0 * * * *'
+    # Runs every 5 minutes
+    - cron: '*/5 * * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+  
 jobs:
-  update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
+  update-readme-with-stack-overflow:
+    name: Update this repo's README with latest activity from StackOverflow
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - uses: actions/checkout@v3
+      - uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: 'https://mywild.work/rss/latest-posts'
+          comment_tag_name: "Website"
+          commit_message: "Updated readme with the latest stackOverflow data"
+          feed_list: "https://mywild.work/rss-feeds"

@@ -39,10 +39,8 @@
 - ⚡ My Quote **Love me or hate me, makes no difference to me.**
 
 ### Blogs posts
-<!-- Website:START -->
-- [Awesome Search Engines](https://dev.to/djacidfx/awesome-hacker-search-engines-158i)
-- [Git Tools](https://dev.to/djacidfx/git-tools-4m0d)
-<!-- Website:END -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

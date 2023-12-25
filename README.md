@@ -40,7 +40,10 @@ If you find a bug or run into any issues please submit them on our [Issue Tracke
 </ul>
 <a href='https://www.facebook.com/TheRockinRev' target="_blank"><img alt='Facebook' src='https://img.shields.io/badge/Facebook-100000?style=flat-square&logo=Facebook&logoColor=008CFF&labelColor=FFFFFF&color=00BBFF'/></a>
 
-![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/WildCatStudio18)
+# Blog posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <b>Contributors/Graphic Design:</b><br>
 <a href="https://www.stephen-dipasquale.com/"><img src="/images/faeb24_22ac866bb84e499da98c7eafe872e51f~mv2_1.png" alt="Steven logo">

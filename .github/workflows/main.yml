@@ -8,7 +8,7 @@ permissions:
   contents: write
   
 jobs:
-  update-readme-with-stack-overflow:
+  update-readme-with-Dev.to:
     name: Update this repo's README with latest activity from Dev.to
     runs-on: ubuntu-latest
     steps:
@@ -16,5 +16,5 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@v1
         with:
           comment_tag_name: "Website"
-          commit_message: "Updated readme with the latest stackOverflow data"
+          commit_message: "Updated readme with the latest Dev.to posts"
           feed_list: "https://dev.to/feed/djacidfx"

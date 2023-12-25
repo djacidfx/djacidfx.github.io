@@ -24,9 +24,7 @@
 
 - 🌱 I’m currently learning **Android Studio and Flutter**
 
-- 👯 I’m looking to collaborate on [Rust Server Auto Install For Linux](https://github.com/djacidfx/Rust-Server-Installer)
-
-- 🤝 I’m looking for help with [Rust Server Auto Installer - Windows](https://github.com/djacidfx/Rust-Server-Installer)
+- 👯 I’m looking to collaborate on [Rust Server Auto Install - A Linux Version](https://github.com/djacidfx/Rust-Server-Installer)
 
 - 👨‍💻 All of my projects are available at [https://wildcatproductions.biz/](https://wildcatproductions.biz/)
 
@@ -38,7 +36,7 @@
 
 - 📄 Know about my experiences [https://wildcatproductions.biz/](https://wildcatproductions.biz/)
 
-- ⚡ Fun fact **Love me or hate me, makes no difference to me.**
+- ⚡ My Quote **Love me or hate me, makes no difference to me.**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->

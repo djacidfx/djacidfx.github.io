@@ -17,4 +17,4 @@ jobs:
         with:
           comment_tag_name: "Website"
           commit_message: "Updated readme with the latest stackOverflow data"
-          feed_list: "https://mywild.work/rss/category/updates"
+          feed_list: "https://dev.to/feed/djacidfx"

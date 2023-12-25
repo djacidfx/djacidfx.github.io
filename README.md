@@ -20,13 +20,13 @@
 
 <p align="left"> <a href="https://twitter.com/wildcatstudio18" target="blank"><img src="https://img.shields.io/twitter/follow/wildcatstudio18?logo=twitter&style=for-the-badge" alt="wildcatstudio18" /></a> </p>
 
-- 🔭 I’m currently working on [WildCat Studio](https://github.com/djacidfx/djacidfx.github.io)
+- 🔭 I’m currently working on [WildCat Studio](https://github.com/djacidfx/djacidfx.github.io) website
 
 - 🌱 I’m currently learning **Android Studio and Flutter**
 
-- 👯 I’m looking to collaborate on [Rust Server Auto Install - A Linux Version](https://github.com/djacidfx/Rust-Server-Installer)
+- 👯 I’m looking to collaborate on [Rust Server Auto Install - A Linux Version of this](https://github.com/djacidfx/Rust-Server-Installer)
 
-- 👨‍💻 All of my projects are available at [https://wildcatproductions.biz/](https://wildcatproductions.biz/)
+- 👨‍💻 All of my projects are available at [https://wildcatproductions.biz/](https://wildcatproductions.biz/) or [https://mywild.work/](https://mywild.work/)
 
 - 📝 I regularly write articles on [https://mywild.work/](https://mywild.work/)
 

@@ -40,6 +40,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Rust Server Windows](https://dev.to/djacidfx/rust-server-windows-106g)
+- [Awesome Stock Resources](https://dev.to/djacidfx/awesome-stock-resources-56o4)
 - [Awesome Search Engines](https://dev.to/djacidfx/awesome-hacker-search-engines-158i)
 - [Git Tools](https://dev.to/djacidfx/git-tools-4m0d)
 <!-- BLOG-POST-LIST:END -->

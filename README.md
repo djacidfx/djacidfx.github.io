@@ -9,7 +9,6 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/djacidfx/djacidfx.github.io)
 ![GitHub release (with filter)](https://img.shields.io/github/v/release/djacidfx/djacidfx.github.io)
 [![Awesome Content - Click Here](https://img.shields.io/badge/Awesome_Content-Click_Here-2ea44f)](https://mywild.work/)
-[![Awesome](https://awesome.re/badge.svg)](https://mywild.work/)
 
 <h1 align="center">Hi 👋, I'm David</h1>
 <h3 align="center">I am a passionate and enthusiastic hobbyist programming engineer with a knack for solving problems and creating innovative projects.</h3>
@@ -60,7 +59,7 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/wildcatprod"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="wildcatprod" /></a></p><br><br>
-
+<br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=djacidfx&show_icons=true&locale=en&layout=compact" alt="djacidfx" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=djacidfx&show_icons=true&locale=en" alt="djacidfx" /></p>

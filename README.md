@@ -30,7 +30,7 @@
 
 - 💬 Ask me about **my day**
 
-- 📫 How to reach me **djacidburn1877@gmail.com**
+- 📫 How to reach me at [my website](https://mywild.work/contact)
 
 - 📄 Know about my experiences [https://wildcatproductions.biz/](https://wildcatproductions.biz/)
 

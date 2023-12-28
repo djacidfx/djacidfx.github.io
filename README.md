@@ -8,7 +8,6 @@
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/djacidfx/djacidfx.github.io)
 ![GitHub release (with filter)](https://img.shields.io/github/v/release/djacidfx/djacidfx.github.io)
-[![Awesome Content - Click Here](https://img.shields.io/badge/Awesome_Content-Click_Here-2ea44f)](https://mywild.work/)
 
 <h1 align="center">Hi 👋, I'm David</h1>
 <h3 align="center">I am a passionate and enthusiastic hobbyist programming engineer with a knack for solving problems and creating innovative projects.</h3>

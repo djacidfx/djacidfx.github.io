@@ -2,7 +2,7 @@
 ![Website](https://img.shields.io/website?url=https%3A%2F%2Fwildcatproductions.biz%2F&up_message=Online&up_color=blue&down_message=Offline&down_color=red)
 ![GitHub Discussions](https://img.shields.io/github/discussions/djacidfx/djacidfx.github.io)
 <span class="badge-githubsponsors"><a href="https://github.com/sponsors/djacidfx" title="Donate to this project using GitHub Sponsors"><img src="https://img.shields.io/badge/github-donate-yellow.svg" alt="GitHub Sponsors donate button" /></a></span>
-<span class="badge-buymeacoffee"><a href="https://buymeacoffee.com/wildcatprod" title="Donate to this project using Buy Me A Coffee"><img src="https://img.shields.io/badge/buy%20me%20a%20coffee-donate-yellow.svg" alt="Buy Me A Coffee donate button" /></a></span>
+<span class="badge-buymeacoffee"><a href="https://www.buymeacoffee.com/wildcatstudio" title="Donate to this project using Buy Me A Coffee"><img src="https://img.shields.io/badge/buy%20me%20a%20coffee-donate-yellow.svg" alt="Buy Me A Coffee donate button" /></a></span>
 <span class="badge-patreon"><a href="https://patreon.com/wildcatstudio" title="Donate to this project using Patreon"><img src="https://img.shields.io/badge/patreon-donate-yellow.svg" alt="Patreon donate button" /></a></span>
 <span class="badge-paypal"><a href="https://paypal.me/WildCatProductions" title="Donate to this project using Paypal"><img src="https://img.shields.io/badge/paypal-donate-yellow.svg" alt="PayPal donate button" /></a></span>
 
@@ -10,7 +10,7 @@
 ![GitHub release (with filter)](https://img.shields.io/github/v/release/djacidfx/djacidfx.github.io)
 
 <h1 align="center">Hi 👋, I'm David</h1>
-<h3 align="center">I am a passionate and enthusiastic hobbyist programming engineer with a knack for solving problems and creating innovative projects.</h3>
+<h3 align="center">I am a passionate and enthusiastic hobbyist programming engineer with a knack for solving problems and creating innovative projects. It's sad that I have to say thig but I'm disabled from being ran over in 2017 and have doctors appointments a lot each month so if I fork your repo and don't ave time to publish any updates, I hope that everyone understands it's not intentional. I know some authors on here get really badly upset if you do anything with public code on this platform and it's not my intention to make anyone cry.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=djacidfx&label=Profile%20views&color=0e75b6&style=flat" alt="djacidfx" /> </p>
 
@@ -18,13 +18,13 @@
 
 <p align="left"> <a href="https://twitter.com/wildcatstudio18" target="blank"><img src="https://img.shields.io/twitter/follow/wildcatstudio18?logo=twitter&style=for-the-badge" alt="wildcatstudio18" /></a> </p>
 
-- 🔭 I’m currently working on [WildCat Studio](https://github.com/djacidfx/djacidfx.github.io) website
+- 🔭 I’m currently working on [Fuel My Dreams](https://fuelmydreams.online/) website
 
 - 🌱 I’m currently learning **Android Studio and Flutter**
 
 - 👯 I’m looking to collaborate on [Rust Server Auto Install - A Linux Version of this](https://github.com/djacidfx/Rust-Server-Installer)
 
-- 👨‍💻 All of my projects are available at [https://wildcatproductions.biz/](https://wildcatproductions.biz/) or [https://mywild.work/](https://mywild.work/)
+- 👨‍💻 All of my projects are available at [https://wildcatstudio.us/](https://wildcatstudio.us/) or [https://mywild.work/](https://mywild.work/)
 
 - 📝 I regularly write articles on [https://mywild.work/](https://mywild.work/)
 

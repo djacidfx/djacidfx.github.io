@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title> 404 Error || Builza || Builza HTML 5 Template </title>
+    <title> Cart || Builza || Builza HTML 5 Template </title>
     <!-- favicons Icons -->
     <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicons/apple-touch-icon.png" />
     <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicons/favicon-32x32.png" />
@@ -446,12 +446,12 @@
             </div>
             <div class="container">
                 <div class="page-header__inner">
-                    <h3>404 Error </h3>
+                    <h3>Cart </h3>
                     <div class="thm-breadcrumb__inner">
                         <ul class="thm-breadcrumb list-unstyled">
                             <li><a href="index.html">Home</a></li>
                             <li><span class="fas fa-angle-right"></span></li>
-                            <li>404 Error </li>
+                            <li>Cart </li>
                         </ul>
                     </div>
                 </div>
@@ -459,26 +459,235 @@
         </section>
         <!--Page Header End-->
 
-        <!--Start Error Page-->
-        <section class="error-page">
+
+        <!--Start Cart Page-->
+        <section class="cart-page">
             <div class="container">
                 <div class="row">
-                    <div class="col-xl-12">
-                        <div class="error-page__wrapper text-center">
-                            <div class="error-page__content">
-                                <h2>404</h2>
-                                <h3>Opps! Page Not Found</h3>
-                                <p>Sorry, but the page you are looking for does not exist.</p>
-                                <form class="error-page__form">
-                                    <div class="error-page__form-input">
-                                        <input type="search" placeholder="Search here">
-                                        <button type="submit"><i class="fas fa-search"></i></button>
+                    <div class="col-xl-8 col-lg-7">
+                        <div class="cart-page__left">
+                            <div class="table-responsive">
+                                <table class="table cart-table">
+                                    <thead>
+                                        <tr>
+                                            <th>Item</th>
+                                            <th>Price</th>
+                                            <th>Quantity</th>
+                                            <th>Total</th>
+                                            <th>Remove</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+
+                                        <tr>
+                                            <td>
+                                                <div class="product-box">
+                                                    <div class="img-box">
+                                                        <img src="assets/images/shop/cart-page-img-1.jpg" alt="">
+                                                    </div>
+                                                    <h3><a href="product-details.html">Gree Air Conditioner</a></h3>
+                                                </div>
+                                            </td>
+                                            <td>$10.99</td>
+                                            <td>
+                                                <div class="quantity-box">
+                                                    <button type="button" class="sub"><i
+                                                            class="fa fa-minus"></i></button>
+                                                    <input type="number" id="product-1" value="1" />
+                                                    <button type="button" class="add"><i
+                                                            class="fa fa-plus"></i></button>
+                                                </div>
+                                            </td>
+                                            <td>
+                                                $10.99
+                                            </td>
+                                            <td>
+                                                <div class="cross-icon">
+                                                    <i class="fas fa-times"></i>
+                                                </div>
+                                            </td>
+                                        </tr>
+
+                                        <tr>
+                                            <td>
+                                                <div class="product-box">
+                                                    <div class="img-box">
+                                                        <img src="assets/images/shop/cart-page-img-2.jpg" alt="">
+                                                    </div>
+                                                    <h3><a href="product-details.html">Pliers | Cutting, Gripping</a>
+                                                    </h3>
+                                                </div>
+                                            </td>
+                                            <td>$10.99</td>
+                                            <td>
+                                                <div class="quantity-box">
+                                                    <button type="button" class="sub"><i
+                                                            class="fa fa-minus"></i></button>
+                                                    <input type="number" id="product-2" value="1" />
+                                                    <button type="button" class="add"><i
+                                                            class="fa fa-plus"></i></button>
+                                                </div>
+                                            </td>
+                                            <td>
+                                                $10.99
+                                            </td>
+                                            <td>
+                                                <div class="cross-icon">
+                                                    <i class="fas fa-times"></i>
+                                                </div>
+                                            </td>
+                                        </tr>
+
+                                        <tr>
+                                            <td>
+                                                <div class="product-box">
+                                                    <div class="img-box">
+                                                        <img src="assets/images/shop/cart-page-img-3.jpg" alt="">
+                                                    </div>
+                                                    <h3><a href="product-details.html">Gear and wrench</a></h3>
+                                                </div>
+                                            </td>
+                                            <td>$10.99</td>
+                                            <td>
+                                                <div class="quantity-box">
+                                                    <button type="button" class="sub"><i
+                                                            class="fa fa-minus"></i></button>
+                                                    <input type="number" id="product-3" value="1" />
+                                                    <button type="button" class="add"><i
+                                                            class="fa fa-plus"></i></button>
+                                                </div>
+                                            </td>
+                                            <td>
+                                                $10.99
+                                            </td>
+                                            <td>
+                                                <div class="cross-icon">
+                                                    <i class="fas fa-times"></i>
+                                                </div>
+                                            </td>
+                                        </tr>
+
+                                        <tr>
+                                            <td>
+                                                <div class="product-box">
+                                                    <div class="img-box">
+                                                        <img src="assets/images/shop/cart-page-img-4.jpg" alt="">
+                                                    </div>
+                                                    <h3><a href="product-details.html">Nut Driver</a></h3>
+                                                </div>
+                                            </td>
+                                            <td>$10.99</td>
+                                            <td>
+                                                <div class="quantity-box">
+                                                    <button type="button" class="sub"><i
+                                                            class="fa fa-minus"></i></button>
+                                                    <input type="number" id="product-4" value="1" />
+                                                    <button type="button" class="add"><i
+                                                            class="fa fa-plus"></i></button>
+                                                </div>
+                                            </td>
+                                            <td>
+                                                $10.99
+                                            </td>
+                                            <td>
+                                                <div class="cross-icon">
+                                                    <i class="fas fa-times"></i>
+                                                </div>
+                                            </td>
+                                        </tr>
+
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-4 col-lg-5">
+                        <div class="cart-page__right">
+                            <div class="cart-page__sidebar">
+                                <div class="cart-page__shipping">
+                                    <h3 class="cart-page__shipping-title">Calculated Shipping</h3>
+                                    <form action="#" class="cart-page__shipping-form">
+                                        <div class="row">
+                                            <div class="col-xl-12">
+                                                <div class="cart-page__shipping-input-box">
+                                                    <div class="select-box">
+                                                        <select class="wide">
+                                                            <option data-display="Country">Country</option>
+                                                            <option value="1">Ban</option>
+                                                            <option value="2">Ind</option>
+                                                            <option value="3">Pak</option>
+                                                            <option value="3">USA</option>
+                                                        </select>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-xl-6 col-lg-6 col-md-6">
+                                                <div class="cart-page__shipping-input-box">
+                                                    <div class="select-box">
+                                                        <select class="wide">
+                                                            <option data-display="State/City">State/City</option>
+                                                            <option value="1">Ban</option>
+                                                            <option value="2">Ind</option>
+                                                            <option value="3">Pak</option>
+                                                            <option value="3">USA</option>
+                                                        </select>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-xl-6 col-lg-6 col-md-6">
+                                                <div class="cart-page__shipping-input-box">
+                                                    <input type="text" placeholder="Zip Code">
+                                                </div>
+                                            </div>
+                                            <div class="cart-page__btn-box">
+                                                <button type="submit" class="thm-btn">
+                                                    Update <span class="fas fa-arrow-right"></span>
+                                                </button>
+                                            </div>
+                                        </div>
+                                    </form>
+                                </div>
+                                <div class="cart-page__coupon-code">
+                                    <h3 class="cart-page__coupon-code-title">Coupon Code</h3>
+                                    <p class="cart-page__coupon-code-text">I must explain to you how all this mistaken
+                                        idea of denouncing pleasure and praising pain was born</p>
+                                    <form action="#" class="default-form cart-page__coupon-code-form">
+                                        <input type="text" placeholder="Enter Coupon Code">
+                                        <button class="thm-btn" type="submit">
+                                            Apply Coupon <span class="fas fa-arrow-right"></span>
+                                        </button>
+                                    </form>
+                                </div>
+                                <div class="cart-page__cart-total">
+                                    <ul class="cart-total list-unstyled">
+                                        <li>
+                                            <span>Cart Subtotal</span>
+                                            <span>$20.98 USD </span>
+                                        </li>
+                                        <li>
+                                            <span>Shipping Cost</span>
+                                            <span>-$40.00 USD</span>
+                                        </li>
+                                        <li>
+                                            <span>Discount</span>
+                                            <span>$0.00 USD</span>
+                                        </li>
+                                        <li>
+                                            <span>Cart Total</span>
+                                            <span class="cart-total-amount">$20.98 USD</span>
+                                        </li>
+                                    </ul>
+                                    <div class="cart-page__buttons">
+                                        <div class="cart-page__buttons-1">
+                                            <a class="thm-btn" href="checkout.html">Update <span
+                                                    class="fas fa-arrow-right"></span> </a>
+                                        </div>
+                                        <div class="cart-page__buttons-2">
+                                            <a href="checkout.html" class="thm-btn">
+                                                Checkout <span class="fas fa-arrow-right"></span>
+                                            </a>
+                                        </div>
                                     </div>
-                                </form>
-                                <div class="btn-box">
-                                    <a href="index.html" class="thm-btn">
-                                        Go Back Home<span class="fas fa-arrow-right"></span>
-                                    </a>
                                 </div>
                             </div>
                         </div>
@@ -486,7 +695,7 @@
                 </div>
             </div>
         </section>
-        <!--End Error Page-->
+        <!--End Cart Page-->
 
         <!--Start Subscribe One-->
         <section class="subscribe-one">

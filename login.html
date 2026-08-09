@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title> 404 Error || Builza || Builza HTML 5 Template </title>
+    <title> Login || Builza || Builza HTML 5 Template </title>
     <!-- favicons Icons -->
     <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicons/apple-touch-icon.png" />
     <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicons/favicon-32x32.png" />
@@ -446,12 +446,12 @@
             </div>
             <div class="container">
                 <div class="page-header__inner">
-                    <h3>404 Error </h3>
+                    <h3>Login </h3>
                     <div class="thm-breadcrumb__inner">
                         <ul class="thm-breadcrumb list-unstyled">
                             <li><a href="index.html">Home</a></li>
                             <li><span class="fas fa-angle-right"></span></li>
-                            <li>404 Error </li>
+                            <li>Login </li>
                         </ul>
                     </div>
                 </div>
@@ -459,34 +459,61 @@
         </section>
         <!--Page Header End-->
 
-        <!--Start Error Page-->
-        <section class="error-page">
+
+        <!--Start Login One-->
+        <section class="login-one">
             <div class="container">
-                <div class="row">
-                    <div class="col-xl-12">
-                        <div class="error-page__wrapper text-center">
-                            <div class="error-page__content">
-                                <h2>404</h2>
-                                <h3>Opps! Page Not Found</h3>
-                                <p>Sorry, but the page you are looking for does not exist.</p>
-                                <form class="error-page__form">
-                                    <div class="error-page__form-input">
-                                        <input type="search" placeholder="Search here">
-                                        <button type="submit"><i class="fas fa-search"></i></button>
+                <div class="login-one__form">
+                    <div class="inner-title text-center">
+                        <h2>Login Here</h2>
+                    </div>
+                    <form id="login-one__form" name="Login-one_form" action="#" method="post">
+                        <div class="row">
+                            <div class="col-xl-12">
+                                <div class="form-group">
+                                    <div class="input-box">
+                                        <input type="email" name="form_email" id="formEmail" placeholder="Email..."
+                                            required="" value="">
                                     </div>
-                                </form>
-                                <div class="btn-box">
-                                    <a href="index.html" class="thm-btn">
-                                        Go Back Home<span class="fas fa-arrow-right"></span>
-                                    </a>
                                 </div>
                             </div>
+                            <div class="col-xl-12">
+                                <div class="form-group">
+                                    <div class="input-box">
+                                        <input type="password" name="form_password" id="formPassword"
+                                            placeholder="Password..." required="" value="">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-xl-12">
+                                <div class="form-group">
+                                    <button class="thm-btn" type="submit" data-loading-text="Please wait...">Login Here
+                                        <span class="fas fa-arrow-right"></span>
+                                    </button>
+                                </div>
+                            </div>
+                            <div class="remember-forget">
+                                <div class="checked-box1">
+                                    <input type="checkbox" name="saveMyInfo" id="saveinfo" checked="">
+                                    <label for="saveinfo">
+                                        <span></span>
+                                        Remember me
+                                    </label>
+                                </div>
+                                <div class="forget">
+                                    <a href="#">Forget password?</a>
+                                </div>
+                            </div>
+
+                            <div class="create-account text-center">
+                                <p>Not registered yet? <a href="sign-up.html">Create an Account</a></p>
+                            </div>
                         </div>
-                    </div>
+                    </form>
                 </div>
             </div>
         </section>
-        <!--End Error Page-->
+        <!--End Login One-->
 
         <!--Start Subscribe One-->
         <section class="subscribe-one">

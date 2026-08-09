@@ -1,0 +1,23 @@
+# Block access to all files by default
+<FilesMatch ".*">
+    Order allow,deny
+    Deny from all
+</FilesMatch>
+
+# Allow only sendemail.php
+<FilesMatch "^sendemail\.php$">
+    Order allow,deny
+    Allow from all
+</FilesMatch>
+
+# Deny access to .env file
+<FilesMatch "^\.env$">
+    Order allow,deny
+    Deny from all
+</FilesMatch>
+
+# Deny access to app folder
+RewriteEngine On
+RewriteRule ^app/.*$ - [F,L]
+RewriteRule ^template/.*$ - [F,L]
+ErrorDocument 403 <h1>403-Forbidden-:(</h1>

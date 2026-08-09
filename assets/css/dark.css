@@ -1,0 +1,195 @@
+body,
+body.boxed-wrapper .page-wrapper,
+.stricky-header.main-menu,
+.project-one__content {
+    background-color: var(--builza-black);
+}
+
+body,
+.about-one__review-text,
+.blog-one__meta li a {
+    color: #808b9b;
+}
+
+
+.main-menu .main-menu__list>li>a,
+.stricky-header .main-menu__list>li>a,
+.main-menu .main-menu__list>li.dropdown>a:after,
+.main-menu__call-sub-title,
+.main-menu__call-number a,
+.main-menu__search,
+.main-menu__cart,
+.section-title__title,
+.about-one__point-content h4,
+.about-one__author-content h4,
+.services-one__title a,
+.services-one__btn-box a,
+.project-one__content h3 a,
+.team-one__title a,
+.process-one__title,
+.counter-one__count h3,
+.counter-one__count span,
+.who-we-serve__single-title a,
+.pricing-one__price-box,
+.blog-one__title a,
+.blog-one__read-more,
+.subscribe-one__content h2 {
+    color: var(--builza-white);
+}
+
+
+
+.about-one__point li:hover .about-one__point-icon,
+.services-one,
+.services-one__count:after,
+.project-one__icon-box a:hover,
+.project-one__nav .swiper-button-prev1:hover,
+.project-one__nav .swiper-button-next1:hover,
+.team-one__social-list a:hover,
+.process-one,
+.testimonial-one__single,
+.who-we-serve__bg-color,
+.counter-one,
+.pricing-one__single,
+.subscribe-one {
+    background-color: #171e32;
+}
+
+
+.main-menu .main-menu__list>li.current>a::after,
+.main-menu .main-menu__list>li:hover>a::after,
+.stricky-header .main-menu__list>li.current>a::after,
+.stricky-header .main-menu__list>li:hover>a::after {
+    color: var(--builza-base);
+}
+
+.thm-btn:before,
+.thm-btn:after,
+.project-one__content::before,
+.project-one__content::after {
+    background-color: var(--builza-white);
+}
+
+.thm-btn:hover {
+    color: var(--builza-base);
+}
+
+
+.about-one__video-icon {
+    color: var(--builza-white);
+    background-color: #171e32;
+}
+
+.about-one__author-sign img {
+    filter: invert(1);
+}
+
+.about-one__author-sign:before {
+    opacity: .20;
+}
+
+.services-one__single {
+    background-color: var(--builza-black);
+    border: 1px solid rgba(var(--builza-white-rgb), .10);
+}
+
+.services-one__count {
+    color: var(--builza-white);
+    background-color: rgba(var(--builza-white-rgb), .20);
+}
+
+.services-one__carousel .services-one-dot-style1 .swiper-pagination-bullet {
+    border: 1px solid rgba(var(--builza-white-rgb), .20);
+}
+
+.services-one__carousel .services-one-dot-style1 .swiper-pagination-bullet.swiper-pagination-bullet-active {
+    background-color: rgba(var(--builza-white-rgb), .20);
+}
+
+.sliding-text__list li>p {
+    -webkit-text-stroke: 1px rgba(var(--builza-white-rgb), .30);
+}
+
+.sliding-text__list li>p:before {
+    color: var(--builza-white);
+}
+
+.sliding-text__list li:hover p:before {
+    color: var(--builza-white);
+}
+
+.team-one__single-inner-shape {
+    background-color: rgba(var(--builza-white-rgb), .20);
+}
+
+.team-one__single {
+    background-color: #171e32;
+}
+
+.process-one__big-text h2 {
+    color: rgba(var(--builza-white-rgb), 0.03);
+}
+
+.process-one__single {
+    background-color: var(--builza-black);
+    border: 1px solid rgba(var(--builza-white-rgb), .20);
+}
+
+.process-one__bg-shape {
+    opacity: 0.02;
+}
+
+.testimonial-one__carousel.owl-carousel .owl-dots .owl-dot {
+    background-color: rgba(var(--builza-white-rgb), .20);
+}
+
+.testimonial-one__carousel.owl-carousel .owl-dot.active {
+    background-color: var(--builza-base);
+}
+
+.who-we-serve__right {
+    background-color: var(--builza-black);
+    border: 1px solid rgba(var(--builza-white-rgb), .20);
+}
+
+.who-we-serve__single-title {
+    color: var(--builza-white);
+    background-color: #171e32;
+}
+
+.who-we-serve__single-title:before,
+.who-we-serve__icon {
+    background-color: #171e32;
+}
+
+.pricing-one__content {
+    background-color: rgba(var(--builza-white-rgb), .10);
+}
+
+.pricing-one__content:before {
+    background-color: var(--builza-black);
+}
+
+.blog-one__single-inner {
+    background-color: rgba(var(--builza-white-rgb), .15);
+}
+
+.blog-one__single-inner::before {
+    background-color: #171e32;
+}
+
+.subscribe-one__form .subscribe-form input[type="email"] {
+    border: 1px solid rgba(var(--builza-white-rgb), .20);
+    color: rgba(var(--builza-white-rgb), .50);
+}
+
+.main-menu .mobile-nav__toggler:hover {
+    color: var(--builza-white);
+}
+
+
+
+
+
+
+/* End */
